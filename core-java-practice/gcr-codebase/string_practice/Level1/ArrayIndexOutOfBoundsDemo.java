@@ -1,5 +1,3 @@
-import java.util.*;
-
 class ArrayIndexOutOfBoundsDemo {
 
     static void handleException(String[] names) {

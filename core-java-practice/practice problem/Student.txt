@@ -1,0 +1,12 @@
+ID: 2
+Name: Ayush
+Marks: 90
+-------------------
+ID: 2
+Name: aditya
+Marks: 85
+-------------------
+ID: 3
+Name: bauaa
+Marks: 80
+-------------------
